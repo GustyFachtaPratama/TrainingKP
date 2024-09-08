@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/RestFull/gs-rest-service-main/complete" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/RestFull/gs-rest-service-main/complete" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/RestFull/gs-rest-service-main/initial" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/RestFull/gs-rest-service-main/initial" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBoot/gs-spring-boot-main/complete" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringBoot/gs-spring-boot-main/complete" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBoot/gs-spring-boot-main/initial" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringBoot/gs-spring-boot-main/initial" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
